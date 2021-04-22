@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Home Section HomePage snapshot 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="menu"
+    >
+      <ul>
+        <li>
+          <a
+            href="/"
+          >
+            Home
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div
+      class="section"
+    >
+      <div
+        class="container"
+      >
+        <div
+          class="columns is-multiline"
+        />
+      </div>
+    </div>
+    <div
+      class="footer"
+    >
+      <div>
+        Footer
+      </div>
+    </div>
+  </div>
+</div>
+`;

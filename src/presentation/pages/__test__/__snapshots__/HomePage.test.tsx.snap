@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage Home snapshots 1`] = `
+<div>
+  <div
+    class="section"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="columns is-fullwidth is-multiline"
+      >
+        <div
+          class="column is-one-quarter"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="card-image"
+            >
+              <figure
+                class="image is-4by3"
+              >
+                <img
+                  alt="Placeholder image"
+                  src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+                />
+              </figure>
+            </div>
+            <div
+              class="card-content"
+            >
+              <div
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <figure
+                    class="image is-48x48"
+                  >
+                    <img
+                      alt="Placeholder image"
+                      src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="media-content"
+                >
+                  <p
+                    class="title is-4"
+                  >
+                    Rick Sanchez
+                  </p>
+                  <p
+                    class="subtitle is-6"
+                  >
+                    Earth (C-137)
+                  </p>
+                </div>
+              </div>
+              <div
+                class="content"
+              >
+                Human
+                <br />
+                <time
+                  datetime="2016-1-1"
+                >
+                  2017-11-04T18:48:46.250Z
+                </time>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="column is-one-quarter"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="card-image"
+            >
+              <figure
+                class="image is-4by3"
+              >
+                <img
+                  alt="Placeholder image"
+                  src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+                />
+              </figure>
+            </div>
+            <div
+              class="card-content"
+            >
+              <div
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <figure
+                    class="image is-48x48"
+                  >
+                    <img
+                      alt="Placeholder image"
+                      src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="media-content"
+                >
+                  <p
+                    class="title is-4"
+                  >
+                    Morty Smith
+                  </p>
+                  <p
+                    class="subtitle is-6"
+                  >
+                    Earth (C-137)
+                  </p>
+                </div>
+              </div>
+              <div
+                class="content"
+              >
+                Human
+                <br />
+                <time
+                  datetime="2016-1-1"
+                >
+                  2017-11-04T18:50:21.651Z
+                </time>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="column is-one-quarter"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="card-image"
+            >
+              <figure
+                class="image is-4by3"
+              >
+                <img
+                  alt="Placeholder image"
+                  src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+                />
+              </figure>
+            </div>
+            <div
+              class="card-content"
+            >
+              <div
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <figure
+                    class="image is-48x48"
+                  >
+                    <img
+                      alt="Placeholder image"
+                      src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="media-content"
+                >
+                  <p
+                    class="title is-4"
+                  >
+                    Summer Smith
+                  </p>
+                  <p
+                    class="subtitle is-6"
+                  >
+                    Earth (Replacement Dimension)
+                  </p>
+                </div>
+              </div>
+              <div
+                class="content"
+              >
+                Human
+                <br />
+                <time
+                  datetime="2016-1-1"
+                >
+                  2017-11-04T19:09:56.428Z
+                </time>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="column is-one-quarter"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="card-image"
+            >
+              <figure
+                class="image is-4by3"
+              >
+                <img
+                  alt="Placeholder image"
+                  src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+                />
+              </figure>
+            </div>
+            <div
+              class="card-content"
+            >
+              <div
+                class="media"
+              >
+                <div
+                  class="media-left"
+                >
+                  <figure
+                    class="image is-48x48"
+                  >
+                    <img
+                      alt="Placeholder image"
+                      src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+                    />
+                  </figure>
+                </div>
+                <div
+                  class="media-content"
+                >
+                  <p
+                    class="title is-4"
+                  >
+                    Beth Smith
+                  </p>
+                  <p
+                    class="subtitle is-6"
+                  >
+                    Earth (Replacement Dimension)
+                  </p>
+                </div>
+              </div>
+              <div
+                class="content"
+              >
+                Human
+                <br />
+                <time
+                  datetime="2016-1-1"
+                >
+                  2017-11-04T19:22:43.665Z
+                </time>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
